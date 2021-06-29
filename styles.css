@@ -1,0 +1,105 @@
+
+*{
+    background-color: white;
+}
+.menu_bar{
+    color: black;
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.fundo,img,h2{
+   /* background-color: white;*/
+    background-image: url('img/fundo.png');
+    
+}
+
+#user{
+    padding-top: 50px;
+    padding-left: 50px;
+    width: 10%;
+    height: 5%;
+}
+#h2_user{
+    padding-left: 45px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.menu_user h2{
+    color: white;
+    padding-left: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+.back_user{
+    background-color: white;
+}
+
+.menu_user h3{
+    
+        position: relative;
+        color: white;
+        margin-top: -20px;
+        margin-left: 1250px;
+    
+}
+#atualizar{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+#compartilhar{
+    
+    margin-left: 400px;
+}
+
+
+.body_amigos{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 1100px;
+    margin-top: 10px;
+}
+
+#card {
+    background-color: white;
+    margin-left: 200px;
+}
+
+#foto{
+    margin-left: 120px;
+    
+}
+
+#curtir{
+    margin-top: 450px;
+    margin-left: -600;
+}
+
+#comentario{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    margin-left: 60px;
+    padding-top: -200px;
+}
+#amg{
+    margin-left: 1000px;
+}
+
+#user1{
+    margin-left: 1000px;
+    margin-top: -560px;
+}
+#user2{
+    margin-left: 1000px;
+    margin-top: -10px;
+}
+.btn btn-danger{
+    align-items: center;
+}
+
+/*Login*/
+
+
+

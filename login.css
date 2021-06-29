@@ -1,0 +1,61 @@
+*{
+    background-color: #003985;
+}
+
+
+#wallp{
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 30%;
+    width: 30%;
+}
+
+.info{
+    color: black;
+    background-color: white;
+    margin-left: 50px;
+    border-radius: 15px;
+}
+#btn-login{
+    margin-left: 10px;
+    height: 35px;
+    border-radius: 15px;
+}
+
+.cadastro{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.text_cadastro{
+    margin-top: -110px;
+    margin-left: 550px;
+    
+}
+
+.input_cadastro{
+    background-color: white;
+    margin-left: 550px;
+}
+#input_cad{
+    background-color: white;
+}
+#input_email{
+    background-color: white;
+    margin-top: 25px;
+    margin-left: 550px;
+    width: 385px;
+}
+
+#input_senha{
+    background-color: white;
+    margin-left: 550px;
+    margin-top: 15px;
+    width: 385px;
+}
+#btn_cad{
+    margin-left: 550px;
+    margin-top: 15px;
+    width: 385px;
+}
